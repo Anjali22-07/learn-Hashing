@@ -1,0 +1,25 @@
+------IMPORTANT FEATURES OF HASHMAP----------------
+
+-- To access a value one must know it's KEY.
+--hashmap doesn't allows duplicte keys but allows duplicate values.
+-- Hashmap allows null key but only once and allows multiple null values.
+--Java Hashmap maintains no order.
+
+
+-----------APPLICATIONS OF HASHMAP-------------------------
+
+-- problems related to frequency  of an item like--how mny times a product exists or to count the occurence of something
+
+--Mapping problems-- 
+
+--Storage optimization  
+
+--Dictionary--you can implement a dictionary using hashmap
+
+--phonebook-- can implement phonebook
+
+-----------------------------------------------------------------------------------------
+
+--If we put a key object in hashmap  which already exists-- it replaces the previous key value with the new key object.
+
+--How many parameters are passed to the puta() method? -- key and the value in the same order.
