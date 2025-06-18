@@ -22,4 +22,4 @@
 
 --If we put a key object in hashmap  which already exists-- it replaces the previous key value with the new key object.
 
---How many parameters are passed to the puta() method? -- key and the value in the same order.
+--How many parameters are passed to the put() method? -- key and the value in the same order.
