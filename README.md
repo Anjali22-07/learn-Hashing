@@ -38,6 +38,16 @@ A **hash table** uses a **hash function** to compute an index into an array of b
 
 ---
 
+## 🧠 HashMap – A key-value pair structure with average O(1) operations.
+Key methods: put(), get(), containsKey(), remove()
+Internally uses hashing, handles collisions via chaining, and resizes based on the load factor.
+
+## 🌿 HashSet – Stores unique values with constant time performance.
+Built on top of HashMap, using only the keys.
+Key methods: add(), contains(), remove(), isEmpty()
+
+---
+
 ## 🛠 Technologies
 
 - Language: Java / C++ / Python (choose based on your implementation)
